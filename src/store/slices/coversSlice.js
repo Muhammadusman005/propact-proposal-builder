@@ -16,15 +16,10 @@ const initialState = {
       // Formatted to match the screenshot exactly
       content: `
       <div style="font-family:'Times New Roman', serif; font-size:12pt; color:black; line-height:1.6;">
-        <div style="text-align:right; margin-bottom:20px;">
-          August 25, 2025
-        </div>
         
-        <div style="margin-bottom:20px;">
-          <strong>Subject:</strong>&nbsp;&nbsp;&nbsp;&nbsp;Proposal 2
-        </div>
         
-        <div style="margin-bottom:20px;">
+      
+        <div style="margin-bottom:20px; padding-left:-10px">
           Dear [Client Name],
         </div>
         
